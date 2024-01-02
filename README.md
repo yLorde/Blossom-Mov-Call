@@ -9,7 +9,7 @@
 <h3>Sobre mim:</h3>
 <ul>
     <li>Sou conhecido como Lord</li>
-    <li>Fui dono do servidor com mais 3 pessoas</li>
+    <li>Fui dono do servidor juntamente com mais 3 donos</li>
     <li>Não tenho plano de reviver o servidor</li>
 </ul>
 
